@@ -1,4 +1,4 @@
-This is a PyTorch implementation of the paper [Anomal-E](https://arxiv.org/abs/2207.06819?context=cs.AI).
+This is a PyTorch implementation of the paper [Anomal-E](https://arxiv.org/pdf/2207.06819.pdf).
 
 
 ## Prerequisites
