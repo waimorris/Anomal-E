@@ -10,6 +10,7 @@ This paper investigates graph neural networks (GNNs) applied for self-supervised
 
 - [Pytorch](http://pytorch.org/)
 - [DGL](https://www.dgl.ai/)
+- [PyoD](https://pyod.readthedocs.io/en/latest/)
 
 
 ### If you think this work is helpful, please cite
